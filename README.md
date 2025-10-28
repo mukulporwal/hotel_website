@@ -23,7 +23,3 @@ It provides a clean user interface for booking rooms, viewing hotel services, an
 
 ---
 
-## ⚙️ How to Use
-1. **Download or Clone** the repository  
-   ```bash
-   git clone https://github.com/mukulporwal/hotel-management-system.git
