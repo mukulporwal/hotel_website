@@ -23,34 +23,8 @@ It provides a clean user interface for booking rooms, viewing hotel services, an
 
 ---
 
-## ⚙️ How to Run Locally
-1. **Download the Project**
-   - If you already have the folder on your system, skip this step.
-   - Otherwise, click the **Code → Download ZIP** button on GitHub and extract it to your preferred location.
-
-2. **Open the Project Folder**
-   - Navigate to the project folder on your computer.  
-   - Example: `D:\MyProjects\hotel-management-system`
-
-3. **Run the Project**
-   - Simply open the file `index.html` in your browser.  
-   - You can double-click it or right-click → **Open with → Chrome / Edge / Firefox**.
-
-4. **Optional (Using VS Code Live Server)**
-   - Open the folder in **VS Code**.  
-   - Right-click `index.html` → Click **“Open with Live Server”** to preview with auto-refresh.
-
----
-
 ## 💡 About
 This project is **frontend-only** — perfect for learning and showcasing responsive web design skills.  
 You can later connect it to a backend (like PHP or Node.js) for real bookings.
 
 ---
-
-## 📬 Contact
-**Developer:** Mukul Porwal  
-**GitHub:** [https://github.com/mukulporwal](https://github.com/mukulporwal)  
-**LinkedIn:** [https://linkedin.com/in/mukulporwal](https://linkedin.com/in/mukulporwal)
-
-
